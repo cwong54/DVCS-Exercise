@@ -176,7 +176,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
-    <Content Include="DVCS Exercise Web Page2.aspx" />
+    <Content Include="DVCSExerciseWebPage2.aspx" />
     <Content Include="ExerciseWebPage.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -356,12 +356,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="DVCS Exercise Web Page2.aspx.cs">
-      <DependentUpon>DVCS Exercise Web Page2.aspx</DependentUpon>
+    <Compile Include="DVCSExerciseWebPage2.aspx.cs">
+      <DependentUpon>DVCSExerciseWebPage2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="DVCS Exercise Web Page2.aspx.designer.cs">
-      <DependentUpon>DVCS Exercise Web Page2.aspx</DependentUpon>
+    <Compile Include="DVCSExerciseWebPage2.aspx.designer.cs">
+      <DependentUpon>DVCSExerciseWebPage2.aspx</DependentUpon>
     </Compile>
     <Compile Include="ExerciseWebPage.aspx.cs">
       <DependentUpon>ExerciseWebPage.aspx</DependentUpon>
