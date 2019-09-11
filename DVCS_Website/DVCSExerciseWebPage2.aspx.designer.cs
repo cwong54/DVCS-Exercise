@@ -11,7 +11,7 @@ namespace DVCS_Website
 {
 
 
-    public partial class DVCS_Exercise_Web_Page2
+    public partial class DVCSExerciseWebPage2
     {
     }
 }

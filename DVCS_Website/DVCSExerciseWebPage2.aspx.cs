@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace DVCS_Website
 {
-    public partial class DVCS_Exercise_Web_Page2 : System.Web.UI.Page
+    public partial class DVCSExerciseWebPage2 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
